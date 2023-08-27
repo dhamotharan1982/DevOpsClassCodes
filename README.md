@@ -4,7 +4,7 @@ This tutorial teaches you some of the basic concepts in [Vaadin Framework](https
 a fast read for learning how to get started -ddd not an example on =sasdasdasdasd helloxxx hellowwww
  akshat  second edit hello hello
 Running the example from the command hello test
--------------------hi Dhamo hello how are you
+-------------------hi This is Dhamo hello how are you
 ```
 $ mvn jetty:runheee
 ```
